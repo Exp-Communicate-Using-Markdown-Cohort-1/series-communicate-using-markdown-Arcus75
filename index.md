@@ -11,3 +11,8 @@ it goes even to
 Coding away in any code known to the mankind
 
 ```
+
+
+- [x] Add pepe the frog
+- [x] Try coding
+- [ ] Finish it
